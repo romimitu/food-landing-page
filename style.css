@@ -1,0 +1,43 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {font-size: 50px;color: #51656f;margin-top: 20px;margin-bottom: 10px;}
+.col-2{width: 50%;}
+.col-3{width: 33.333%;}
+.d-flex{display: flex;}
+.padd-5{padding: 5%}
+.padd-3{padding: 3%}
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(to left,orange, tomato);
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
+.header-top{color: #fff;background-color:#000;text-align: center;padding: 5px;}
+.header-area {color: rgb(68, 68, 68);background-color:#f8f8ff;}
+.header-area h1 span {color: orange;}
+.header-area p {padding-top: 20px;padding-bottom: 50px;color: #51656f;}
+.header-area img {width: 80%;}
+.about-me{background-image:url("images/about-me-bg.jpg");background-repeat: no-repeat;background-size: contain;margin-bottom: 30px;}
+.about-me img{width:67%;padding-left:80px;}
+.about-me p{text-align: justify;padding-top: 20px;padding-bottom: 50px;color: #51656f;}
+.recipie-area{margin: 0 4%; margin-bottom: 60px;}
+.recipie{text-align: center;padding:20px 20%;}
+.recipie-item{margin: 0 10px;padding: 20px;border-radius: 10px;box-shadow: 0px 0px 20px 3px #e6e6e6;}
+.recipie-item img{max-width:100%;border-radius: 10px;height: 250px;}
+.recipie-item h2{margin: 10px 0px;}
+.recipie-item p{color: #51656f;line-height: 23px;}
+.social{border-radius: 10px;box-shadow: 0px 0px 20px 3px #e6e6e6;text-align: center;margin: 10% 5%;}
+.subscriber{width: 960px;margin: 0 auto;text-align: center;margin-bottom: 60px;}
+.subscriber h1{font-family: "Otomanopee One", sans-serif;font-size: 50px;font-weight: 400;color: #000;}
+.sub-form {margin: 20px 0px;}
+.sub-form input{height: 46px;padding: 0 20px;font-size: 14px;background: transparent;border: 3px solid #e5e5e5;color: #000;}
+.btn-subs{padding: 0px 20px;font-size: 12px;height: 50px;background: #a82d49;border: 3px solid #a82d49;color: #fff;}
+.footer{background: black;color: white;text-align: center;padding:10px;}
+.footer h1{margin: 30px;font-size: 30px;}
+.footer p{margin-bottom: 50px;}
+.footer span{color:orange;}
